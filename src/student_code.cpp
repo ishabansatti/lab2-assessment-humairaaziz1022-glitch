@@ -22,7 +22,7 @@ char getCharValue() {
 int convertFloatToInt(float value) {
     // convert value to int.
     int result= static_cast<int>(value);
-    return value;
+    return result;
 }
 
 /*
